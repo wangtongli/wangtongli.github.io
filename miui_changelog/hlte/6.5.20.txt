@@ -1,0 +1,3 @@
+6.5.20
+同步 MIUI最新源码;新增 悬浮球 设置-其他高级设置打开;PS:开机如出现:com.sec.android.app.FlashBarService报错 重启一下即可;
+
